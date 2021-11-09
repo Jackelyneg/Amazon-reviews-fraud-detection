@@ -1,5 +1,7 @@
 # Amazon-reviews-fraud-detection
 
+[Watch the complete project video here!](https://www.youtube.com/watch?v=fDV3ELWiaAk&t=1s) 
+
 ## Backgorund
 - The majority of listings on amazon aren't sold directly by amazon, 54% of units sold on amazon in the second quarter of 2019 were from third-party sellers this is hard to
 - This makes it hard to differentiate honest sellers from dishonest sellers
