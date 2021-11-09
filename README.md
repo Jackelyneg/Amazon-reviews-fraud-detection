@@ -19,3 +19,9 @@
 - Each indivdual reviews were examined and keywords will distinguish between a counterfeit and non-counterfeit claim.
 -  To further preprocess reviews, stop words were removed along with removing any unnecessary words or punctuation like  removing any points or extra commas characters etc
 that would alter with model performance
+
+## Model Creation
+- 0 label: No counterfeit complaint
+- 1 label: Counterfeit complaint
+
+
